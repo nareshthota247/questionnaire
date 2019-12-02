@@ -38,6 +38,6 @@ mvnw clean package -Dmaven.test.skip=true
 
 java -jar target/hum.jar
 
-•	Now can test using postman or swagger using the URL: http://www.localhost:8082/pinguin/swagger-ui.html
+•	Now can test using postman or swagger using the URL: http://www.localhost:8082/hum/swagger-ui.html
 
 
